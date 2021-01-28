@@ -1,0 +1,26 @@
+.heading{
+    display:flex;
+    justify-content:space-evenly;
+    background-color: grey;
+}
+
+.content1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.content2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.content3{
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    border-style: dashed;
+    border-color: cadetblue;
+}
+
